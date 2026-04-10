@@ -4,8 +4,8 @@
 
 function conectarDB() {
     $host = "localhost";
-    $db   = "jreynoso_db";
-    $user = "jreynoso";
+    $db   = "jvilchis_db";
+    $user = "jvilchis";
     $pass = "12345678";
     $charset = "utf8mb4";
 
